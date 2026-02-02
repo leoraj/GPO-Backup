@@ -1,4 +1,5 @@
 # GPO-Backup  
+![GPO Backup Banner](assets/banner.png)
 Enterprise‑Grade Group Policy Backup Automation Script
 
 This repository contains a production‑ready PowerShell automation script designed for Windows Server environments that require reliable, auditable, and SOX‑aligned Group Policy Object (GPO) backups.
